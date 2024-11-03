@@ -39,17 +39,11 @@ void is32or64()
 {
     size_t zu = sizeof(long);
     if (zu == 4)
-    {
         printf("你的电脑可能是32位的\n");
-    }
     else if (zu == 8)
-    {
         printf("你的电脑可能是64位的\n");
-    }
     else
-    {
         printf("无法检测该设备为32或64位\n");
-    }
 }
 
 /*
