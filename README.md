@@ -2,4 +2,4 @@
 ## Purpose
 A Basic C/C++ Exercise Playground.
 ## More
-More On https://BasiC.LocalWu.Top
+More On https://BasiC.LocalWu.top
