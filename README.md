@@ -1,5 +1,5 @@
 # LocalBasiC
 ## Purpose
-A C/C++ Playground Of Myself
+A Basic C/C++ Exercise Playground.
 ## More
 More On https://BasiC.LocalWu.Top
