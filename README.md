@@ -1,4 +1,4 @@
-# LocalBasiC
+# BasiC
 A Basic C/C++ Exercise Playground.
 ## Purpose
 
