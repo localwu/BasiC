@@ -62,7 +62,7 @@ Root Site [https://LocalWu.top/](https://LocalWu.top/).
 
 BasiC 将会分为多个阶段来展开，具体设计将会在未来不断推进，如果你有好的想法，也欢迎和我说说。
 
-## Ba si C 规范
+## BasiC 规范
 
 规范化文档 [https://BasiC.LocalWu.top/document](https://BasiC.LocalWu.top/document)。
 
