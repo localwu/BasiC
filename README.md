@@ -22,6 +22,8 @@ A Basic C/C++ Exercise Playground (for myself currently).
 </sup>
 </p>
 
+---
+
 # BasiC (en)
 
 ## The Idea of BasiC
